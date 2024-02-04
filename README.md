@@ -1,7 +1,7 @@
 
 # 💻Jéssica C. de Abrantes
 
-Estudante de Ciencias da Computação, apaixonada por T.I. e gamers.
+Estudante de Ciências da Computação, apaixonada por T.I. e gamers.
 
 ### Contatos
 

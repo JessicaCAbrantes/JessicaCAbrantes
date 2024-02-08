@@ -5,9 +5,10 @@ Estudante de Ciências da Computação, apaixonada por T.I. e gamers.
 
 ### Contatos
 
-[![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/jessicac_abrantes22)
+[![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-white?style=for-the-badge)](https://www.dio.me/users/jessicac_abrantes22)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](jessicac.abrantes22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jessicac-abrantes/)
+[![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Palestras-Cursos-e-Livros-5b01aa266dff414aa43ca137460ef789?pvs=4)
 
 ### Aprendendo
 

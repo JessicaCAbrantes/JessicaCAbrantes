@@ -3,14 +3,14 @@
 
 Estudante de Ciências da Computação, apaixonada por T.I. e gamers.
 
-### Contatos
+### Contatos:
 
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-white?style=for-the-badge)](https://www.dio.me/users/jessicac_abrantes22)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](jessicac.abrantes22@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jessicac-abrantes/)
 [![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Palestras-Cursos-e-Livros-5b01aa266dff414aa43ca137460ef789?pvs=4)
 
-### Aprendendo
+### Aprendendo:
 
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
@@ -20,7 +20,7 @@ Estudante de Ciências da Computação, apaixonada por T.I. e gamers.
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=purple)
 
-### GitHub Stats
+### GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JessicaCAbrantes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 

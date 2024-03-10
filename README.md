@@ -10,6 +10,7 @@ Estudante de Ciências da Computação, apaixonada por T.I. e gamers.
 [![Notion](https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Palestras-Cursos-e-Livros-5b01aa266dff414aa43ca137460ef789?pvs=4)
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-white?style=for-the-badge)](https://www.dio.me/users/jessicac_abrantes22)
 [![Perfil MICROSOFT LEARN](https://img.shields.io/badge/-Perfil%20na%20MICROSOFT%20LEARN-gray?style=for-the-badge)](https://learn.microsoft.com/pt-br/users/jssicacostadeabrantes-4736/)
+[![Perfil GOOGLE DEVELOPERS](https://img.shields.io/badge/-Perfil%20na%20GOOGLE%20DEVELOPERS-red?style=for-the-badge)](https://g.dev/jessicaabrantes)
 
 ### Aprendendo:
 
